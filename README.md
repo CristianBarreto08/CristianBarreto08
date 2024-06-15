@@ -40,9 +40,8 @@
 <img align="left" alt="Java" width="37px" style="padding-right:18px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
 <img align="left" alt="Java" width="37px" style="padding-right:18px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hadoop/hadoop-original.svg" />
 <img align="left" alt="Java" width="37px" style="padding-right:18px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" />
-<img align="left" alt="Java" width="37px" style="padding-right:18px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" />
-<img align="left" alt="Java" width="37px" style="padding-right:18px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" />
 <img align="left" alt="Java" width="37px" style="padding-right:18px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg" />
+<img align="left" alt="Java" width="37px" style="padding-right:18px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" />
 <img align="down" alt="Java" width="37px" style="padding-right:18px;" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />      
 <br />
 
