@@ -29,6 +29,14 @@ Inventory planning across a multipack Amazon catalog: demand forecast, reorder p
 
 <br />
 
+**[Landed Cost & FBA Margin Calculator](https://github.com/CristianBarreto08/landed-cost-calculator)** — **[▶ live demo](https://cristianbarreto08.github.io/landed-cost-calculator/)**
+
+What a unit actually costs by the time Amazon pays you. Freight allocated across the shipment by mode — including air's chargeable weight — plus duty, tariff, and every Amazon fee, down to net margin and break-even price.
+
+[![Calculator preview](https://raw.githubusercontent.com/CristianBarreto08/landed-cost-calculator/main/assets/calculator-preview.png)](https://cristianbarreto08.github.io/landed-cost-calculator/)
+
+<br />
+
 #
 ### 🛠 My Toolbox
 
